@@ -115,9 +115,9 @@ nav{
 
 
 .bg_img{
-	/* background-image: url("blob-removebg-preview.png");
+	background-image: url("blob-removebg-preview.png");
 	background-repeat: no-repeat;
-	background-size: cover; */
+	background-size: cover;
 }
 
 .about{
