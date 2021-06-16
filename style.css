@@ -201,7 +201,7 @@ nav{
 	text-align: center;
 	color: #fff;
 	padding: 30px;
-
+	height:150px;
 
   }
 
@@ -328,4 +328,16 @@ nav{
 	cursor: pointer;
 	padding: 15px;
 	border-radius: 50%;
+}
+
+@media only screen and (min-width: 425px){
+
+	img.blob {
+		width: 500px;
+		height: 400px;
+		padding-top: 30px;
+		margin-left: -20px;
+	}
+	
+	
 }
